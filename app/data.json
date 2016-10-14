@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Buffaloes",
+      "players": [
+        {
+            "name": "Sefo Lifau",
+            "position": "Quarterback",
+            "number": 13
+        },
+        {
+            "name": "Phillip Lindsay",
+            "position": "Tailback",
+            "number": 23
+        },
+        {
+            "name": "Bryce Bobo",
+            "position": "Wide Receiver",
+            "number": 4
+        }
+    ]
+    },
+    {
+      "name": "Broncos",
+      "players": [
+        {
+            "name": "Trevor Siemian",
+            "position": "Quarterback",
+            "number": 13
+        },
+        {
+            "name": "Von Miller",
+            "position": "Outside linebacker",
+            "number": 58
+        },
+        {
+            "name": "Emmanuel Sanders",
+            "position": "Wide Receiver",
+            "number": 10
+        }
+      ]
+    },
+    {
+      "name": "Rockies",
+      "players": [
+          {
+              "name": "Carlos Gonzalez",
+              "position": "RF",
+              "number": 5
+          },
+          {
+              "name": "Charlie BLackmon",
+              "position": "CF",
+              "number": 23
+          },
+          {
+              "name": "Nolan Arenado",
+              "position": "3B",
+              "number": 28
+          }
+      ]
+     },
+     {
+      "name": "Avs",
+      "players": [
+        {
+            "name": "Matt Duchene",
+            "position": "Center",
+            "number": 9
+        }
+      ]
+    }
+
+]
